@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Raymart (aka dreadnought2099)</h1>
+<h1 align="center">Hi 👋, I'm dreadnought2099</h1>
 ---
 
 <!-- GitHub Trophies -->
