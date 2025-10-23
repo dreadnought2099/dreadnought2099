@@ -1,7 +1,5 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Raymart (aka dreadnought2099)</h1>
-<h3 align="center">A passionate web developer from the Philippines</h3>
-
 ---
 
 <!-- GitHub Trophies -->
@@ -37,17 +35,42 @@
 
 ---
 
+<!-- GitHub Streak Stats -->
+<p align="center">
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=dreadnought2099&theme=onedark&hide_border=true&date_format=j%20M%5B%20Y%5D">
+      <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=dreadnought2099&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D">
+      <img height="180em" src="https://streak-stats.demolab.com?user=dreadnought2099&theme=onedark&hide_border=true&mode=weekly" alt="GitHub Streak Stats" />
+    </picture>
+  </a>
+</p>
+
+---
+
 <!-- Contact -->
 ### 📫 Connect with me:
 <p align="center">
   <a href="https://letterboxd.com/rmagallanez" target="_blank">
-    <img src="https://img.shields.io/badge/Letterboxd-00D735?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Letterboxd-00D735?style=for-the-badge&logo=letterboxd&logoColor=white">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Letterboxd-333333?style=for-the-badge&logo=letterboxd&logoColor=white">
+      <img src="https://img.shields.io/badge/Letterboxd-00D735?style=for-the-badge&logo=letterboxd&logoColor=white" alt="Letterboxd" />
+    </picture>
   </a>
   <a href="https://www.youtube.com/@paradoxx_the_art" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/YouTube-ECECEC?style=for-the-badge&logo=youtube&logoColor=red">
+      <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    </picture>
   </a>
   <a href="mailto:magallanesraymart@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+      <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-F2F2F2?style=for-the-badge&logo=gmail&logoColor=EA4335">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </picture>
   </a>
 </p>
 
